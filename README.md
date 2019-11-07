@@ -1,8 +1,8 @@
-# [Project Name]
+# Organized Family Board
 
 [Value Proposition]
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+How can we make it easier for large families to keep track of their events, chores, games, practices, responsibilities etc. all on one platform?
 
 ## Links
 
